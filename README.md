@@ -51,7 +51,7 @@ This repository contains the individual portfolio projects of **Group 16** from 
 
 ### **6. Omar Mwakunyetta**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/RioOmar/My-project)  
-- **Website Link**: [Live Portfolio](https://ghalib92.github.io/portfolio/)  
+- **Website Link**: [Live Portfolio](https://rioomar.github.io/My-project/)  
 
 ---
 
