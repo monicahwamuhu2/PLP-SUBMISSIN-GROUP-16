@@ -51,7 +51,11 @@ This repository contains the individual portfolio projects of **Group 16** from 
 
 ### **6. Omar Mwakunyetta**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/RioOmar/My-project)  
-- **Website Link**: [Live Portfolio](https://rioomar.github.io/My-project/)  
+- **Website Link**: [Live Portfolio](https://rioomar.github.io/My-project/)
+
+### **7. Rodgers Munene**  
+- **GitHub Link**: [Portfolio Repository](https://github.com/rodgers-munene/plp-portfolio)  
+- **Website Link**: [Live Portfolio](https://rodgers-munene.github.io/plp-portfolio/)  
 
 ---
 
