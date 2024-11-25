@@ -19,7 +19,7 @@ This repository contains the individual portfolio projects of **Group 16** from 
 8. Ali Aliow  
 9. Benson Muthangya  
 10. Fabius Simiyu  
-11. Farbean Simiyu  
+11. Farbean Makini 
 12. Phenny Mwaisaka  
 13. Micheal James  
 14. Joseph Roberts  
