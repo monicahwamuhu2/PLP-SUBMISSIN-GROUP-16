@@ -55,8 +55,11 @@ This repository contains the individual portfolio projects of **Group 16** from 
 
 ### **7. Rodgers Munene**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/rodgers-munene/plp-portfolio)  
-- **Website Link**: [Live Portfolio](https://rodgers-munene.github.io/plp-portfolio/)  
-
+- **Website Link**: [Live Portfolio](https://rodgers-munene.github.io/plp-portfolio/)
+  
+### **8. Tabitha Wanjiku**  
+- **GitHub Link**: [Portfolio Repository](https://github.com/tw8130/Portfolio-Tabby-Group-16)  
+- **Website Link**: [Live Portfolio](https://tw8130.github.io/Portfolio-Tabby-Group-16/)  
 ---
 
 ## 🎯 Objective  
