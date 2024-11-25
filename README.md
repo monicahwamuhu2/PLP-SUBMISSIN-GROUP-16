@@ -47,7 +47,7 @@ This repository contains the individual portfolio projects of **Group 16** from 
 
 ### **5. Elphas Simiyu**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/elphas-simiyu/elphas-portfolio-website.git)  
-- **Website Link**: [Live Portfolio](https://elphas-simiyu.github.io/elphas-portfolio-website/)  
+- **Website Link**: [Live Portfolio](https://loquacious-cheesecake-8f087a.netlify.app/)  
 
 ### **6. Omar Mwakunyetta**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/RioOmar/My-project)  
