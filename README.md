@@ -60,7 +60,10 @@ This repository contains the individual portfolio projects of **Group 16** from 
 ### **8. Tabitha Wanjiku**  
 - **GitHub Link**: [Portfolio Repository](https://github.com/tw8130/Portfolio-Tabby-Group-16)  
 - **Website Link**: [Live Portfolio](https://tw8130.github.io/Portfolio-Tabby-Group-16/)  
----
+
+### **9. Farbean Makini**  
+- **GitHub Link**: [Portfolio Repository](https://github.com/MakiniFab/MakiniPortfolioWebsite-Group-16.git)  
+- **Website Link**: [Live Portfolio](https://makiniportfoliowebsite-group-16.onrender.com/)  
 
 ## 🎯 Objective  
 
